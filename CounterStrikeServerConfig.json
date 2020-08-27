@@ -1,0 +1,43 @@
+﻿[
+  {
+    "Address": "93.176.86.154",
+    "Port": 27045,
+    "Rcon": "Def0shoofuavoovienohmeituxeeraqw",
+    "Names": [
+      "retake1"
+    ]
+  },
+  {
+    "Address": "93.176.86.154",
+    "Port": 27060,
+    "Rcon": "password",
+    "Names": [
+      "retake2"
+    ]
+  },
+  {
+    "Address": "93.176.86.154",
+    "Port": 27060,
+    "Rcon": "Def0shoofuavoovienohmeituxeerawq",
+    "Names": [
+      "retake3"
+    ]
+  },
+  {
+    "Address": "93.176.86.154",
+    "Port": 27025,
+    "Rcon": "Iesh7seepiephonohduabaixowaefigo",
+    "Names": [
+      "Jail",
+      "jail"
+    ]
+  },
+  {
+    "Address": "93.176.86.154",
+    "Port": 27020,
+    "Rcon": "Eequideech7weecairuyaifeevephoop",
+    "Names": [
+      "awp"
+    ]
+  }
+]
